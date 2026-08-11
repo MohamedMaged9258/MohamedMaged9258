@@ -8,7 +8,7 @@
 
 ## Mohamed Maged
 
-**AI Engineering Student · Flutter Developer · Home-Lab Tinkerer**
+**AIOps Engineer | AI Engineering Student | Flutter Engineer | MLOps, Docker, ERP & Manufacturing Systems, Linux & Applied AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--maged05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-maged05/)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedMaged9258-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedMaged9258)
